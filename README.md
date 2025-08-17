@@ -52,9 +52,8 @@ To run the Disease Prediction and Medical Recommendation System:
 
 ## Collaborators
 
-- Soham Sonar
-- Kunal Rajput
-- Tanmay Pramanick
+- Ritu Akter
+- Ummay Kashfa
   
 ## Project Files Overview
 
